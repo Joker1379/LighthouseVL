@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C1:25:B5:30:05:9F:BD:75:EE:00:D0:54:8A:87:EB:8E:63:15:35:69%3Bcom.example.lighthousevl
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.lighthousevl
+
+    SHA-1 certificate fingerprint:
+    C1:25:B5:30:05:9F:BD:75:EE:00:D0:54:8A:87:EB:8E:63:15:35:69
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB_nUGs2gx5ylcP7z1kY7G-Jy2UpitO_28</string>
+</resources>
